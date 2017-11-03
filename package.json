@@ -1,0 +1,22 @@
+{
+  "name": "quick-node-server",
+  "version": "1.0.0",
+  "description": "serves static files",
+  "author": {
+    "name": "Esau Silva",
+    "email": "esausilva85@gmail.com",
+    "url": "https://esausilva.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esausilva/quick-node-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/esausilva/quick-node-server/issues"
+  },
+  "keywords": ["node server", "express server"]
+}
