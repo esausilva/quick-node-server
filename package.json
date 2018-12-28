@@ -4,12 +4,12 @@
   "description": "serves static files",
   "author": {
     "name": "Esau Silva",
-    "email": "esausilva85@gmail.com",
+    "twitter": "@_esausilva",
     "url": "https://esausilva.com"
   },
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.4"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/esausilva/quick-node-server/issues"
   },
-  "keywords": ["node server", "express server"]
+  "keywords": [
+    "node server",
+    "express server"
+  ]
 }
